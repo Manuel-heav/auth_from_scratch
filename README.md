@@ -26,4 +26,4 @@ but with bcrypt different hashed outputs everytime it's hashed, so more secure
 # Salting in hashing
 
 - means when you encrypt a password you add a random thing + the password and you hash them both
-  then you can separate the password from the random thing generated and know the password, more secure
+  then you can separate the password from the random thing generated and know the password more secure
