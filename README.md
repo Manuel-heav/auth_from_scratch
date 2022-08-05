@@ -1,4 +1,4 @@
-# AUTH from scratch
+# AUTH from scratch.
 
 # Terms
 
