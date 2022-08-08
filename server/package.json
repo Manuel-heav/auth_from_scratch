@@ -1,0 +1,17 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm start"
+  },
+  "keywords": [],
+  "author": "manuel heav <manuelheav32@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.18.1",
+    "morgan": "^1.10.0"
+  }
+}
