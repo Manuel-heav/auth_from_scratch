@@ -7,4 +7,10 @@ router.get("/", (req, res) => {
   });
 });
 
+router.post("/signup", (req, res) => {
+  res.json({
+    message: "Auth",
+  });
+});
+
 module.exports = router;
