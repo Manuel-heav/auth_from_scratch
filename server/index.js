@@ -1,7 +1,7 @@
 const express = require("express");
 const morgan = require("morgan");
 const auth = require("./auth/index.js");
-// const cors = require("cors");
+// const cors = require("cors")
 
 const app = express();
 
