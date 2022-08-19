@@ -6,7 +6,7 @@ const auth = require("./auth/index.js");
 const app = express();
 
 app.use(morgan("common"));
-// app.use(cors())
+app.use(cors())
 
 app.get("/", (req, res) => {
   res.json({
